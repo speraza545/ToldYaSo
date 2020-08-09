@@ -17,14 +17,14 @@ then moved onto curl scripts, and finally took care of my routes for both the us
 the posts.
 
 # other links
-[wireframe-client](https://imgur.com/a/9MS3NGE)
-[user stories](https://imgur.com/a/CJXrm6F)
-[ERD](https://imgur.com/a/WGuOzlP)
+[wireframe-client](https://imgur.com/a/9MS3NGE)  \
+[user stories](https://imgur.com/a/CJXrm6F)  \
+[ERD](https://imgur.com/a/WGuOzlP)  \
 
 # deployed clients
-[api](https://git.heroku.com/toldyaso.git)
-[client](skmidk.github.io/toldyaso-client/)
+[api](https://git.heroku.com/toldyaso.git)  \
+[client](skmidk.github.io/toldyaso-client/)  \
 
 # repos
-[api](https://github.com/skmidk/ToldYaSo)
-[client](https://github.com/skmidk/toldYaSo-client)
+[api](https://github.com/skmidk/ToldYaSo)  \
+[client](https://github.com/skmidk/toldYaSo-client)  \
