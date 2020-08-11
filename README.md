@@ -22,9 +22,9 @@ the posts.
 [ERD](https://imgur.com/a/WGuOzlP)  \
 
 # deployed clients
-[api](https://git.heroku.com/toldyaso.git)  \
+[api](https://toldyaso.herokuapp.com/)  \
 [client](skmidk.github.io/toldyaso-client/)  \
 
 # repos
 [api](https://github.com/skmidk/ToldYaSo)  \
-[client](https://github.com/skmidk/toldYaSo-client)  \
+[client](https://github.com/skmidk/toldYaSo-client)  
