@@ -19,11 +19,11 @@ the posts.
 # other links
 [wireframe-client](https://imgur.com/a/9MS3NGE)  \
 [user stories](https://imgur.com/a/CJXrm6F)  \
-[ERD](https://imgur.com/a/WGuOzlP)  \
+[ERD](https://imgur.com/a/WGuOzlP)  
 
 # deployed clients
 [api](https://toldyaso.herokuapp.com/)  \
-[client](skmidk.github.io/toldyaso-client/)  \
+[client](skmidk.github.io/toldyaso-client/)  
 
 # repos
 [api](https://github.com/skmidk/ToldYaSo)  \
